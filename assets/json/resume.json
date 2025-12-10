@@ -15,12 +15,12 @@
     {
       "name": "FPT Software",
       "position": "Data Engineer Intern",
-      "summary": "Developed Python and PySpark-based ETL pipelines for ingesting, transforming, and validating data across multiple internal systems.",
+      "summary": "Developed Python and PySpark-based ETL pipelines for ingesting, transforming, and validating data across multiple internal systems."
     },
     {
       "name": "BASF",
       "position": "Undergraduate Data Science Researcher",
-      "summary": "Conducted data science research with BASF through Purdue’s Data Mine program, applying statistical modeling and ML to real industry datasets.",
+      "summary": "Conducted data science research with BASF through Purdue’s Data Mine program, applying statistical modeling and ML to real industry datasets."
     }
   ],
   "education": [
@@ -30,7 +30,7 @@
       "area": "Data Science",
       "studyType": "B.S.",
       "startDate": "08.2024",
-      "endDate": "05.2025",
+      "endDate": "05.2025"
     }
   ],
   "languages": [
