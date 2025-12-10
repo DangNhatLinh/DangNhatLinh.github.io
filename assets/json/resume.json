@@ -16,7 +16,7 @@
       "name": "FPT Software",
       "position": "Data Engineer Intern",
       "summary": "Developed Python and PySpark-based ETL pipelines for ingesting, transforming, and validating data across multiple internal systems.",
-    }
+    },
     {
       "name": "BASF",
       "position": "Undergraduate Data Science Researcher",
@@ -40,7 +40,7 @@
       "icon": ""
     },
     {
-      "language": "Vietnam",
+      "language": "Vietnamese",
       "fluency": "Native",
       "icon": ""
     }
